@@ -27,57 +27,57 @@
   <summary><b>🕹️ Cub3D</b> — Wolfenstein‑style raycaster (C, MiniLibX)</summary>
   <br/>
   <b>Co-op Partner</b> <a href="https://github.com/Tezzarius">Tezzarius</a><br/>
-  <b>🏺</b> <a href="">Cub3D</a><br/>
-  <b>📈</b> +3.500 XP<br/>
-  <b>💲</b> DDA raycasting, shading, texture loading, validated maps, clean shutdown<br/>
+  <b>Repo:</b> <a href="">Cub3D</a><br/>
+  <b>Rewards:</b> +3.500 XP<br/>
+  <b>Loot:</b> DDA raycasting, shading, texture loading, validated maps, clean shutdown<br/>
 </details>
 <details>
   <summary><b>🐚 Minishell</b> — a tiny bash with pipes & heredocs</summary>
   <br/>
   <b>Co-op Partner</b> <a href="https://github.com/Tezzarius">Tezzarrius</a><br/>
-  <b>🏺</b> <a href="">Minishell</a><br/>
+  <b>Repo:</b> <a href="">Minishell</a><br/>
   <b>Rewards:</b> +3.000 XP<br/>
   <b>Loot:</b> parser, signals, execve, env, redirections, heredocs
 </details>
 <details>
   <summary><b>🔀 push_swap</b> — stack sorting sorcery (via QuickSort)</summary>
   <br/>
-  <b>🏺</b> <a href="">push_swap</a><br/>
+  <b>Repo:</b> <a href="">push_swap</a><br/>
   <b>Rewards:</b> +2.200 XP<br/>
   <b>Loot:</b> chunking, LIS strategy, operation cost heuristics
 </details>
 <details>
   <summary><b>🍝 Philosophers</b> — thread synchronization banquet</summary>
   <br/>
-  <b>🏺</b> <a href="">Philosophers</a><br/>
+  <b>Repo:</b> <a href="">Philosophers</a><br/>
   <b>Rewards:</b> +1.800 XP<br/>
   <b>Loot:</b> mutex choreography, starvation avoidance, monitor thread
 </details>
 <details>
   <summary><b>🧮 fractol</b> — a graphical illustration of the Mandelbrot- and Julia-set</summary>
   <br/>
-  <b>🏺</b> <a href="">fractol</a><br/>
+  <b>Repo:</b> <a href="">fractol</a><br/>
   <b>Rewards:</b> +?? XP<br/>
   <b>Loot:</b> imaginary numbers, graphical workflow, structs
 </details>
 <details>
   <summary><b>⛓️‍💥 pipex</b> — simple command piping with in- and out-put redirection</summary>
   <br/>
-  <b>🏺</b> <a href="">pipex</a><br/>
+  <b>Repo:</b> <a href="">pipex</a><br/>
   <b>Rewards:</b> +?? XP<br/>
   <b>Loot:</b> partent- and child process relations, pipes
 </details>
 <details>
   <summary><b>🧵 get_next_line</b> — reading line by line from a fd</summary>
   <br/>
-  <b>🏺</b> <a href="">get_next_line</a><br/>
+  <b>Repo:</b> <a href="">get_next_line</a><br/>
   <b>Rewards:</b> +?? XP<br/>
   <b>Loot:</b> files, fds, parsing
 </details>
 <details>
   <summary><b>🧪 ft_printf</b> - rebuilding a basic printf</summary>
   <br/>
-  <b>🏺</b> <a href="">ft_printf</a><br/>
+  <b>Repo:</b> <a href="">ft_printf</a><br/>
   <b>Rewards:</b> +?? XP<br/>
   <b>Loot:</b> C-string parsing
 </details>
@@ -86,7 +86,7 @@
   <summary><b>🧩 Libft</b> - building my first own library</summary>
   <br/>
   <br/>
-  <b>🏺</b> <a href="">Libft</a><br/>
+  <b>Repo:</b> <a href="">Libft</a><br/>
   <b>Rewards:</b> +?? XP<br/>
   <b>Loot:</b> core concepts, memory allocation, parsing, building by design
 </details>
@@ -105,7 +105,7 @@
 	<summary><b>🌎 webserv</b> - a HTTP/1.1 NGINX-like webserver </summary>
 	<br/>
   <b>Co-op Partner:</b> <a href="https://github.com/GhRafayel/">GhRafayel</a><br/>
-	<b>🏺</b><br/>
+	<b>Repo:</b><br/>
 	<b>Rewards:</b> +21.630 XP<br/>
 	<b>Loot:</b> networking, socktes, http, parsing
 </details>
