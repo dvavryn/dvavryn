@@ -56,11 +56,11 @@
 <details>
   <summary><b>🧮 fractol</b> · <b>⛓️‍💥 pipex</b> · <b>🧵 get_next_line</b> · <b>🧪 ft_printf</b> · <b>🧩 Libft</b></summary>
   <br/>
-  <a href="">fractol</a> •
-  <a href="">pipex</a> •
-  <a href="">get_next_line</a> • 
-  <a href="">ft_printf</a> • 
-  <a href="">Libft</a>
+  - <a href="">fractol</a><br>
+  - <a href="">pipex</a><br>
+  - <a href="">get_next_line</a><br>
+  - <a href="">ft_printf</a><br>
+  - <a href="">Libft</a>
 </details>
 
 <hr/>
@@ -83,16 +83,16 @@
 </details>
 <details>
 	<summary><b>⛓️ CPP Modules</b> - an introduction on the core concepts of C++98</summary>
-	- <a href="">CPP_00</a>
-	- <a href="">CPP_01</a>
-	- <a href="">CPP_02</a>
-	- <a href="">CPP_03</a>
-	- <a href="">CPP_04</a>
-	- <a href="">CPP_05</a>
-	- <a href="">CPP_06</a>
-	- <a href="">CPP_07</a>
-	- <a href="">CPP_08</a>
-	- <a href="">CPP_09</a>
+	- <a href="">CPP_00</a><br/>
+	- <a href="">CPP_01</a><br/>
+	- <a href="">CPP_02</a><br/>
+	- <a href="">CPP_03</a><br/>
+	- <a href="">CPP_04</a><br/>
+	- <a href="">CPP_05</a><br/>
+	- <a href="">CPP_06</a><br/>
+	- <a href="">CPP_07</a><br/>
+	- <a href="">CPP_08</a><br/>
+	- <a href="">CPP_09</a><br/>
 </details>
 
 <hr/>
