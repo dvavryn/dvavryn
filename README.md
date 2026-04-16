@@ -19,35 +19,35 @@
 ║ STR 14  DEX 12  CON 13  INT 17  WIS 14  CHA 12                              ║
 ║ Proficiencies: C · C++ · GO · Git                                           ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
-</pre>
+</pre align="center">
 
 ### 🗺️ Quest Log (42 Projects in C/C++)
 <details>
   <summary><b>🕹️ Cub3D</b> — Wolfenstein‑style raycaster (C, MiniLibX)</summary>
   <br>
   <b>Repo:</b> <a href="">Cub3D</a><br>
-  <b>Rewards:</b> +3500 XP, +2 DEX, +1 INT<br>
+  <b>Rewards:</b> +3.500 XP<br>
   <b>Loot:</b> DDA raycasting, shading, texture loading, validated maps, clean shutdown<br>
 </details>
 <details>
   <summary><b>🐚 Minishell</b> — a tiny bash with pipes & heredocs</summary>
   <br>
   <b>Repo:</b> <a href="">Minishell</a><br>
-  <b>Rewards:</b> +3000 XP, +2 INT, +1 WIS<br>
+  <b>Rewards:</b> +3.000 XP<br>
   <b>Loot:</b> parser, signals, execve, env, redirections, heredocs
 </details>
 <details>
   <summary><b>🔀 push_swap</b> — stack sorting sorcery (via QuickSort)</summary>
   <br>
   <b>Repo:</b> <a href="">push_swap</a><br>
-  <b>Rewards:</b> +2200 XP, +2 DEX<br>
+  <b>Rewards:</b> +2.200 XP<br>
   <b>Loot:</b> chunking, LIS strategy, operation cost heuristics
 </details>
 <details>
   <summary><b>🍝 Philosophers</b> — thread synchronization banquet</summary>
   <br>
   <b>Repo:</b> <a href="">Philosophers</a><br>
-  <b>Rewards:</b> +1800 XP, +2 WIS<br>
+  <b>Rewards:</b> +1.800 XP<br>
   <b>Loot:</b> mutex choreography, starvation avoidance, monitor thread
 </details>
 <details>
@@ -61,16 +61,18 @@
 </details>
 
 ---
+
 ### ✨ Spellbook (<a href="">GO</a>)
 - <a href=""></a>
 
 ---
+
 ### ✨ Spellbook (<a href="">C++98</a>)
 <details>
 	<summary><b>🌎 webserv</b> - a HTTP/1.1 NGINX-like webserver </summary>
 	<br>
 	<b>Repo:</b><br>
-	<b>Rewards:</b><br>
+	<b>Rewards:</b> +21.630 XP<br>
 	<b>Loot:</b>
 </details>
 <details>
@@ -88,26 +90,28 @@
 </details>
 
 ---
+
 ### 🎒 Inventory (Skills)
 <p align="center">
   Languages <br>
-  <img alt="C" src="https://img.shields.io/badge/C-knight%27s%20steel-1f2937?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="C++98" src="https://img.shields.io/badge/C%2B%2B-98%20grimoire-334155?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img alt="Golang" src="">
+  <img alt="C" src="https://img.shields.io/badge/C99-1f2937?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C++98" src="https://img.shields.io/badge/C%2B%2B98-334155?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 
   <br>
   Systems / Graphics<br>
-  <img alt="MiniLibX" src="https://img.shields.io/badge/MiniLibX-mlx%20glyphs-0f766e?style=for-the-badge">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-tavern%20OS-0ea5e9?style=for-the-badge&logo=linux&logoColor=white">
-  <img alt="Unix/Bash" src="https://img.shields.io/badge/Bash-shell%20chants-121011?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img alt="MiniLibX" src="https://img.shields.io/badge/MiniLibX-0f766e?style=for-the-badge">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0ea5e9?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="MacOSX" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img alt="Unix/Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
 
   <br>
   Tooling<br>
-  <img alt="Git" src="https://img.shields.io/badge/Git-guild%20ledger-ef4444?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-raven%20post-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img alt="Make" src="https://img.shields.io/badge/Make-ritual%20circles-6366f1?style=for-the-badge">
-  <img alt="GDB" src="https://img.shields.io/badge/GDB-breakpoint%20bolts-78350f?style=for-the-badge">
-  <img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-memory%20detect%20evil-7c2d12?style=for-the-badge">
+  <img alt="Git" src="https://img.shields.io/badge/Git-ef4444?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Make" src="https://img.shields.io/badge/Make-6366f1?style=for-the-badge">
+  <img alt="GDB" src="https://img.shields.io/badge/GDB-78350f?style=for-the-badge">
+  <img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-7c2d12?style=for-the-badge">
 
 </p>
 
