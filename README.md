@@ -21,7 +21,7 @@
 ╚═════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
-### 🗺️ Quest Log (42 Projects in C/C++)
+### 🗺️ Quest Log (C)
 
 <details>
   <summary><b>🕹️ Cub3D</b> — Wolfenstein‑style raycaster (C, MiniLibX)</summary>
@@ -63,13 +63,13 @@
 
 <hr/>
 
-### ✨ Spellbook (<a href="">GO</a>)
+### 🗺️ Quest Log (GO)
 
 - <a href=""></a>
 
 <hr/>
 
-### ✨ Spellbook (<a href="">C++98</a>)
+### 🗺️ Quest Log (C++98)
 
 <details>
 	<summary><b>🌎 webserv</b> - a HTTP/1.1 NGINX-like webserver </summary>
