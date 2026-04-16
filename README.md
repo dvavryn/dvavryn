@@ -111,16 +111,16 @@
 </details>
 <details>
 	<summary><b>⛓️ CPP Modules</b> - an introduction on the core concepts of C++98</summary>
-	- <a href=""><b>0️⃣</b></a> - Basics<br/>
-	- <a href=""><b>1️⃣</b></a> - Memory allocation, pointers and references<br/>
-	- <a href=""><b>2️⃣</b></a> - Polymorphism<br/>
-	- <a href=""><b>3️⃣</b></a> - Inheritance<br/>
-	- <a href=""><b>4️⃣</b></a> - Polymorphism, Abstract Classes and interfaces<br/>
-	- <a href=""><b>5️⃣</b></a> - Exceptions<br/>
-	- <a href=""><b>6️⃣</b></a> - C++ casts<br/>
-	- <a href=""><b>7️⃣</b></a> - Templates<br/>
-	- <a href=""><b>8️⃣</b></a> - Templated containers, iterators, algorithms<br/>
-	- <a href=""><b>9️⃣</b></a> - STL<br/>
+	- <a href=""><b>0️⃣0️⃣</b></a> - Basics<br/>
+	- <a href=""><b>0️⃣1️⃣</b></a> - Memory allocation, pointers and references<br/>
+	- <a href=""><b>0️⃣2️⃣</b></a> - Polymorphism<br/>
+	- <a href=""><b>0️⃣3️⃣</b></a> - Inheritance<br/>
+	- <a href=""><b>0️⃣4️⃣</b></a> - Polymorphism, Abstract Classes and interfaces<br/>
+	- <a href=""><b>0️⃣5️⃣</b></a> - Exceptions<br/>
+	- <a href=""><b>0️⃣6️⃣</b></a> - C++ casts<br/>
+	- <a href=""><b>0️⃣7️⃣</b></a> - Templates<br/>
+	- <a href=""><b>0️⃣8️⃣</b></a> - Templated containers, iterators, algorithms<br/>
+	- <a href=""><b>0️⃣9️⃣</b></a> - STL<br/>
 </details>
 
 <hr/>
