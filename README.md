@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".gif" alt="Welcome Scroll" width="100%">
+  <img src="./assets/welcome-scroll.png" alt="Welcome Scroll" width="100%">
 </p>
 
 <div align="center">
