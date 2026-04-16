@@ -54,13 +54,41 @@
   <b>Loot:</b> mutex choreography, starvation avoidance, monitor thread
 </details>
 <details>
-  <summary><b>🧮 fractol</b> · <b>⛓️‍💥 pipex</b> · <b>🧵 get_next_line</b> · <b>🧪 ft_printf</b> · <b>🧩 Libft</b></summary>
+  <summary><b>🧮 fractol</b> — a graphical illustration of the Mandelbrot- and Julia-set</summary>
   <br/>
-  - <a href="">fractol</a><br>
-  - <a href="">pipex</a><br>
-  - <a href="">get_next_line</a><br>
-  - <a href="">ft_printf</a><br>
-  - <a href="">Libft</a>
+  <b>Repo:</b> <a href="">fractol</a><br/>
+  <b>Rewards:</b> +?? XP<br/>
+  <b>Loot:</b> imaginary numbers, graphical workflow, structs
+</details>
+<details>
+  <summary><b>⛓️‍💥 pipex</b> — simple command piping with in- and out-put redirection</summary>
+  <br/>
+  <b>Repo:</b> <a href="">pipex</a><br/>
+  <b>Rewards:</b> +?? XP<br/>
+  <b>Loot:</b> partent- and child process relations, pipes
+</details>
+<details>
+  <summary><b>🧵 get_next_line</b> — reading line by line from a fd</summary>
+  <br/>
+  <b>Repo:</b> <a href="">get_next_line</a><br/>
+  <b>Rewards:</b> +?? XP<br/>
+  <b>Loot:</b> files, fds, parsing
+</details>
+<details>
+  <summary><b>🧪 ft_printf</b> - rebuilding a basic printf</summary>
+  <br/>
+  <b>Repo:</b> <a href="">ft_printf</a><br/>
+  <b>Rewards:</b> +?? XP<br/>
+  <b>Loot:</b> C-string parsing
+</details>
+
+<details>
+  <summary><b>🧩 Libft</b> - building my first own library</summary>
+  <br/>
+  <br/>
+  <b>Repo:</b> <a href="">Libft</a><br/>
+  <b>Rewards:</b> +?? XP<br/>
+  <b>Loot:</b> core concepts, memory allocation, parsing, building by design
 </details>
 
 <hr/>
@@ -83,16 +111,16 @@
 </details>
 <details>
 	<summary><b>⛓️ CPP Modules</b> - an introduction on the core concepts of C++98</summary>
-	- <a href="">CPP_00</a><br/>
-	- <a href="">CPP_01</a><br/>
-	- <a href="">CPP_02</a><br/>
-	- <a href="">CPP_03</a><br/>
-	- <a href="">CPP_04</a><br/>
-	- <a href="">CPP_05</a><br/>
-	- <a href="">CPP_06</a><br/>
-	- <a href="">CPP_07</a><br/>
-	- <a href="">CPP_08</a><br/>
-	- <a href="">CPP_09</a><br/>
+	- <a href=""><b>CPP_00</b></a> - Basics<br/>
+	- <a href=""><b>CPP_01</b></a> - Memory allocation, pointers and references<br/>
+	- <a href=""><b>CPP_02</b></a> - Polymorphism<br/>
+	- <a href=""><b>CPP_03</b></a> - Inheritance<br/>
+	- <a href=""><b>CPP_04</b></a> - Polymorphism, Abstract Classes and interfaces<br/>
+	- <a href=""><b>CPP_05</b></a> - Exceptions<br/>
+	- <a href=""><b>CPP_06</b></a> - C++ casts<br/>
+	- <a href=""><b>CPP_07</b></a> - Templates<br/>
+	- <a href=""><b>CPP_08</b></a> - Templated containers, iterators, algorithms<br/>
+	- <a href=""><b>CPP_09</b></a> - STL<br/>
 </details>
 
 <hr/>
