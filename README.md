@@ -11,14 +11,14 @@
 <hr/>
 
 <pre align="center">
-        ╔══════════════════════════════ CHARACTER SHEET ══════════════════════════════╗
-        ║ Name: Vavryn Dominic                    Class: Beginner Alchemist (C/C++98) ║
-        ║ Level: 07                               Alignment: Chaotic Neutral          ║
-        ║                                                                             ║
-        ║ HP  [##########]   EP  [##########]   XP  18,450                            ║
-        ║ STR 14  DEX 12  CON 13  INT 17  WIS 14  CHA 12                              ║
-        ║ Proficiencies: C · C++ · GO · Git                                           ║
-        ╚═════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════ CHARACTER SHEET ══════════════════════════════╗
+║ Name: Vavryn Dominic                    Class: Beginner Alchemist (C/C++98) ║
+║ Level: 07                               Alignment: Chaotic Neutral          ║
+║                                                                             ║
+║ HP  [##########]   EP  [##########]   XP  18,450                            ║
+║ STR 14  DEX 12  CON 13  INT 17  WIS 14  CHA 12                              ║
+║ Proficiencies: C · C++ · GO · Git                                           ║
+╚═════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
 ### 🗺️ Quest Log (42 Projects in C/C++)
