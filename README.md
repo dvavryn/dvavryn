@@ -26,6 +26,7 @@
 <details>
   <summary><b>🕹️ Cub3D</b> — Wolfenstein‑style raycaster (C, MiniLibX)</summary>
   <br/>
+  <b>Co-op Partner</b> <a href="https://github.com/Tezzarius">Tezzarius</a>
   <b>Repo:</b> <a href="">Cub3D</a><br/>
   <b>Rewards:</b> +3.500 XP<br/>
   <b>Loot:</b> DDA raycasting, shading, texture loading, validated maps, clean shutdown<br/>
@@ -33,6 +34,7 @@
 <details>
   <summary><b>🐚 Minishell</b> — a tiny bash with pipes & heredocs</summary>
   <br/>
+  <b>Co-op Partner</b> <a href="https://github.com/Tezzarius">Tezzarrius</a>
   <b>Repo:</b> <a href="">Minishell</a><br/>
   <b>Rewards:</b> +3.000 XP<br/>
   <b>Loot:</b> parser, signals, execve, env, redirections, heredocs
@@ -74,6 +76,7 @@
 <details>
 	<summary><b>🌎 webserv</b> - a HTTP/1.1 NGINX-like webserver </summary>
 	<br/>
+  <b>Co-op Partner:</b> <a href="https://github.com/GhRafayel/">GhRafayel</a>
 	<b>Repo:</b><br/>
 	<b>Rewards:</b> +21.630 XP<br/>
 	<b>Loot:</b>
@@ -118,5 +121,3 @@
   <img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-7c2d12?style=for-the-badge">
 
 </p>
-
-<hr/>
