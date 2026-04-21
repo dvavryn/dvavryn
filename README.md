@@ -111,16 +111,16 @@
 </details>
 <details>
 	<summary><b>⛓️ CPP Modules</b> - an introduction on the core concepts of C++98</summary>
-	- <a href="https://github.com/dvavryn/CPP-modules/cpp00"><b>0️⃣0️⃣</b></a> - Basics<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/cpp01"><b>0️⃣1️⃣</b></a> - Memory allocation, pointers and references<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/cpp02"><b>0️⃣2️⃣</b></a> - Polymorphism<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/cpp03"><b>0️⃣3️⃣</b></a> - Inheritance<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/cpp04"><b>0️⃣4️⃣</b></a> - Polymorphism, Abstract Classes and interfaces<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/cpp05"><b>0️⃣5️⃣</b></a> - Exceptions<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/cpp06"><b>0️⃣6️⃣</b></a> - C++ casts<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/cpp07"><b>0️⃣7️⃣</b></a> - Templates<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/cpp08"><b>0️⃣8️⃣</b></a> - Templated containers, iterators, algorithms<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/cpp09"><b>0️⃣9️⃣</b></a> - STL<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp00"><b>0️⃣0️⃣</b></a> - Basics<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp01"><b>0️⃣1️⃣</b></a> - Memory allocation, pointers and references<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp02"><b>0️⃣2️⃣</b></a> - Polymorphism<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp03"><b>0️⃣3️⃣</b></a> - Inheritance<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp04"><b>0️⃣4️⃣</b></a> - Polymorphism, Abstract Classes and interfaces<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp05"><b>0️⃣5️⃣</b></a> - Exceptions<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp06"><b>0️⃣6️⃣</b></a> - C++ casts<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp07"><b>0️⃣7️⃣</b></a> - Templates<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp08"><b>0️⃣8️⃣</b></a> - Templated containers, iterators, algorithms<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp09"><b>0️⃣9️⃣</b></a> - STL<br/>
 </details>
 
 <hr/>
