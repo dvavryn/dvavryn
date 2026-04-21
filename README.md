@@ -21,6 +21,8 @@
 ╚═════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
+<hr/>
+
 ### 🗺️ Quest Log (C)
 
 <details>
@@ -115,6 +117,8 @@
   <b>Rewards:</b> +?? XP</br>
   <b>Loot:</b> Docker, Docker Compose
 </details>
+
+<hr/>
 
 ### 🗺️ Quest Log (C++98)
 
