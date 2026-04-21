@@ -15,7 +15,7 @@
 ║ Name: Vavryn Dominic                    Class: Beginner Alchemist (C/C++98) ║
 ║ Level: 07                               Alignment: Chaotic Neutral          ║
 ║                                                                             ║
-║ HP  [##########]   EP  [##########]   XP  63,241                            ║
+║ HP  [##########]   EP  [##########]   XP  79.077                            ║
 ║ STR 14  DEX 12  CON 13  INT 17  WIS 14  CHA 12                              ║
 ║ Proficiencies: C · C++ · GO · Git                                           ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
@@ -114,7 +114,7 @@
   <summary><b>💻 Inception</b> - Docker Compose - to be finished</summary>
   </br>
   <b>Repo:</b> <a href="https://github.com/dvavryn/inception">
-  <b>Rewards:</b> +?? XP</br>
+  <b>Rewards:</b> +15.836 XP</br>
   <b>Loot:</b> Docker, Docker Compose
 </details>
 
