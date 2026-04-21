@@ -15,7 +15,7 @@
 ║ Name: Vavryn Dominic                    Class: Beginner Alchemist (C/C++98) ║
 ║ Level: 07                               Alignment: Chaotic Neutral          ║
 ║                                                                             ║
-║ HP  [##########]   EP  [##########]   XP  18,450                            ║
+║ HP  [##########]   EP  [##########]   XP  63,241                            ║
 ║ STR 14  DEX 12  CON 13  INT 17  WIS 14  CHA 12                              ║
 ║ Proficiencies: C · C++ · GO · Git                                           ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
@@ -28,57 +28,59 @@
   <br/>
   <b>Co-op Partner</b> <a href="https://github.com/Tezzarius">Tezzarius</a><br/>
   <b>Repo:</b> <a href="https://github.com/dvavryn/cub3d">Cub3D</a><br/>
-  <b>Rewards:</b> +3.500 XP<br/>
+  <b>Rewards:</b> +5,775 XP<br/>
   <b>Loot:</b> DDA raycasting, shading, texture loading, validated maps, clean shutdown<br/>
 </details>
+
 <details>
   <summary><b>🐚 Minishell</b> — a tiny bash with pipes & heredocs</summary>
   <br/>
   <b>Co-op Partner</b> <a href="https://github.com/Tezzarius">Tezzarrius</a><br/>
   <b>Repo:</b> <a href="https://github.com/dvavryn/minishell">Minishell</a><br/>
-  <b>Rewards:</b> +3.000 XP<br/>
+  <b>Rewards:</b> +2,814 XP<br/>
   <b>Loot:</b> parser, signals, execve, env, redirections, heredocs
-</details>
-<details>
-  <summary><b>🔀 push_swap</b> — stack sorting sorcery (via QuickSort)</summary>
-  <br/>
-  <b>Repo:</b> <a href="https://github.com/dvavryn/push_swap">push_swap</a><br/>
-  <b>Rewards:</b> +2.200 XP<br/>
-  <b>Loot:</b> chunking, LIS strategy, operation cost heuristics
 </details>
 <details>
   <summary><b>🍝 Philosophers</b> — thread synchronization banquet</summary>
   <br/>
   <b>Repo:</b> <a href="https://github.com/dvavryn/philosophers">Philosophers</a><br/>
-  <b>Rewards:</b> +1.800 XP<br/>
+  <b>Rewards:</b> +3,360 XP<br/>
   <b>Loot:</b> mutex choreography, starvation avoidance, monitor thread
+</details>
+<details>
+  <summary><b>🔀 push_swap</b> — stack sorting sorcery (via QuickSort)</summary>
+  <br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/push_swap">push_swap</a><br/>
+  <b>Rewards:</b> +1,855 XP<br/>
+  <b>Loot:</b> chunking, LIS strategy, operation cost heuristics
 </details>
 <details>
   <summary><b>🧮 fractol</b> — a graphical illustration of the Mandelbrot- and Julia-set</summary>
   <br/>
   <b>Repo:</b> <a href="https://github.com/dvavryn/fractol">fractol</a><br/>
-  <b>Rewards:</b> +?? XP<br/>
+  <b>Rewards:</b> +1,000 XP<br/>
   <b>Loot:</b> imaginary numbers, graphical workflow, structs
 </details>
 <details>
   <summary><b>⛓️‍💥 pipex</b> — simple command piping with in- and out-put redirection</summary>
   <br/>
   <b>Repo:</b> <a href="https://github.com/dvavryn/pipex">pipex</a><br/>
-  <b>Rewards:</b> +?? XP<br/>
+  <b>Rewards:</b> +1,142 XP<br/>
   <b>Loot:</b> partent- and child process relations, pipes
 </details>
 <details>
   <summary><b>🧵 get_next_line</b> — reading line by line from a fd</summary>
   <br/>
   <b>Repo:</b> <a href="https://github.com/dvavryn/get_next_line">get_next_line</a><br/>
-  <b>Rewards:</b> +?? XP<br/>
+  <b>Rewards:</b> +882 XP<br/>
   <b>Loot:</b> files, fds, parsing
 </details>
+
 <details>
   <summary><b>🧪 ft_printf</b> - rebuilding a basic printf</summary>
   <br/>
   <b>Repo:</b> <a href="https://github.com/dvavryn/ft_printf">ft_printf</a><br/>
-  <b>Rewards:</b> +?? XP<br/>
+  <b>Rewards:</b> +882 XP<br/>
   <b>Loot:</b> C-string parsing
 </details>
 
@@ -87,17 +89,32 @@
   <br/>
   <br/>
   <b>Repo:</b> <a href="https://github.com/dvavryn/libft">Libft</a><br/>
-  <b>Rewards:</b> +?? XP<br/>
+  <b>Rewards:</b> +462 XP<br/>
   <b>Loot:</b> core concepts, memory allocation, parsing, building by design
 </details>
 
 <hr/>
 
-### 🗺️ Quest Log (GO)
-
-- <a href=""></a>
-
-<hr/>
+### 💻 Sytems & Network
+<details>
+  <summary><b>💻 born2beroot</b> - setting up a VM</summary>
+  </br>
+  <b>Rewards:</b> +577 XP</br>
+  <b>Loot:</b> Unix, Debian, sh/bash, cron, system-administration
+</details>
+<details>
+  <summary><b>🛜 NetPractice</b> - Basic Network Management</summary>
+  </br>
+  <b>Rewards:</b> +3,160 XP</br>
+  <b>Loot:</b> Networking, IP, Subnetmasks
+</details>
+<details>
+  <summary><b>💻 Inception</b> - Docker Compose - to be finished</summary>
+  </br>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/inception">
+  <b>Rewards:</b> +?? XP</br>
+  <b>Loot:</b> Docker, Docker Compose
+</details>
 
 ### 🗺️ Quest Log (C++98)
 
@@ -106,7 +123,7 @@
 	<br/>
   <b>Co-op Partner:</b> <a href="https://github.com/GhRafayel/">GhRafayel</a><br/>
 	<b>Repo:</b> <a href="https://github.com/dvavryn/webserv">Webserv</a><br/>
-	<b>Rewards:</b> +21.630 XP<br/>
+	<b>Rewards:</b> +21,630 XP<br/>
 	<b>Loot:</b> networking, socktes, http, parsing
 </details>
 <details>
@@ -115,12 +132,12 @@
 	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp01"><b>0️⃣1️⃣</b></a> - Memory allocation, pointers and references<br/>
 	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp02"><b>0️⃣2️⃣</b></a> - Polymorphism<br/>
 	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp03"><b>0️⃣3️⃣</b></a> - Inheritance<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp04"><b>0️⃣4️⃣</b></a> - Polymorphism, Abstract Classes and interfaces<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp04"><b>0️⃣4️⃣</b></a> - Polymorphism, Abstract Classes and interfaces +9,660 XP<br/>
 	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp05"><b>0️⃣5️⃣</b></a> - Exceptions<br/>
 	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp06"><b>0️⃣6️⃣</b></a> - C++ casts<br/>
 	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp07"><b>0️⃣7️⃣</b></a> - Templates<br/>
 	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp08"><b>0️⃣8️⃣</b></a> - Templated containers, iterators, algorithms<br/>
-	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp09"><b>0️⃣9️⃣</b></a> - STL<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp09"><b>0️⃣9️⃣</b></a> - STL + 10,042 XP<br/>
 </details>
 
 <hr/>
