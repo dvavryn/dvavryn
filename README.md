@@ -27,7 +27,7 @@
   <summary><b>🕹️ Cub3D</b> — Wolfenstein‑style raycaster (C, MiniLibX)</summary>
   <br/>
   <b>Co-op Partner</b> <a href="https://github.com/Tezzarius">Tezzarius</a><br/>
-  <b>Repo:</b> <a href="">Cub3D</a><br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/cub3d">Cub3D</a><br/>
   <b>Rewards:</b> +3.500 XP<br/>
   <b>Loot:</b> DDA raycasting, shading, texture loading, validated maps, clean shutdown<br/>
 </details>
@@ -35,49 +35,49 @@
   <summary><b>🐚 Minishell</b> — a tiny bash with pipes & heredocs</summary>
   <br/>
   <b>Co-op Partner</b> <a href="https://github.com/Tezzarius">Tezzarrius</a><br/>
-  <b>Repo:</b> <a href="">Minishell</a><br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/minishell">Minishell</a><br/>
   <b>Rewards:</b> +3.000 XP<br/>
   <b>Loot:</b> parser, signals, execve, env, redirections, heredocs
 </details>
 <details>
   <summary><b>🔀 push_swap</b> — stack sorting sorcery (via QuickSort)</summary>
   <br/>
-  <b>Repo:</b> <a href="">push_swap</a><br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/push_swap">push_swap</a><br/>
   <b>Rewards:</b> +2.200 XP<br/>
   <b>Loot:</b> chunking, LIS strategy, operation cost heuristics
 </details>
 <details>
   <summary><b>🍝 Philosophers</b> — thread synchronization banquet</summary>
   <br/>
-  <b>Repo:</b> <a href="">Philosophers</a><br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/philosophers">Philosophers</a><br/>
   <b>Rewards:</b> +1.800 XP<br/>
   <b>Loot:</b> mutex choreography, starvation avoidance, monitor thread
 </details>
 <details>
   <summary><b>🧮 fractol</b> — a graphical illustration of the Mandelbrot- and Julia-set</summary>
   <br/>
-  <b>Repo:</b> <a href="">fractol</a><br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/fractol">fractol</a><br/>
   <b>Rewards:</b> +?? XP<br/>
   <b>Loot:</b> imaginary numbers, graphical workflow, structs
 </details>
 <details>
   <summary><b>⛓️‍💥 pipex</b> — simple command piping with in- and out-put redirection</summary>
   <br/>
-  <b>Repo:</b> <a href="">pipex</a><br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/pipex">pipex</a><br/>
   <b>Rewards:</b> +?? XP<br/>
   <b>Loot:</b> partent- and child process relations, pipes
 </details>
 <details>
   <summary><b>🧵 get_next_line</b> — reading line by line from a fd</summary>
   <br/>
-  <b>Repo:</b> <a href="">get_next_line</a><br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/get_next_line">get_next_line</a><br/>
   <b>Rewards:</b> +?? XP<br/>
   <b>Loot:</b> files, fds, parsing
 </details>
 <details>
   <summary><b>🧪 ft_printf</b> - rebuilding a basic printf</summary>
   <br/>
-  <b>Repo:</b> <a href="">ft_printf</a><br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/ft_printf">ft_printf</a><br/>
   <b>Rewards:</b> +?? XP<br/>
   <b>Loot:</b> C-string parsing
 </details>
@@ -86,7 +86,7 @@
   <summary><b>🧩 Libft</b> - building my first own library</summary>
   <br/>
   <br/>
-  <b>Repo:</b> <a href="">Libft</a><br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/libft">Libft</a><br/>
   <b>Rewards:</b> +?? XP<br/>
   <b>Loot:</b> core concepts, memory allocation, parsing, building by design
 </details>
@@ -105,22 +105,22 @@
 	<summary><b>🌎 webserv</b> - a HTTP/1.1 NGINX-like webserver </summary>
 	<br/>
   <b>Co-op Partner:</b> <a href="https://github.com/GhRafayel/">GhRafayel</a><br/>
-	<b>Repo:</b><br/>
+	<b>Repo:</b> <a href="https://github.com/dvavryn/webserv">Webserv</a><br/>
 	<b>Rewards:</b> +21.630 XP<br/>
 	<b>Loot:</b> networking, socktes, http, parsing
 </details>
 <details>
 	<summary><b>⛓️ CPP Modules</b> - an introduction on the core concepts of C++98</summary>
-	- <a href=""><b>0️⃣0️⃣</b></a> - Basics<br/>
-	- <a href=""><b>0️⃣1️⃣</b></a> - Memory allocation, pointers and references<br/>
-	- <a href=""><b>0️⃣2️⃣</b></a> - Polymorphism<br/>
-	- <a href=""><b>0️⃣3️⃣</b></a> - Inheritance<br/>
-	- <a href=""><b>0️⃣4️⃣</b></a> - Polymorphism, Abstract Classes and interfaces<br/>
-	- <a href=""><b>0️⃣5️⃣</b></a> - Exceptions<br/>
-	- <a href=""><b>0️⃣6️⃣</b></a> - C++ casts<br/>
-	- <a href=""><b>0️⃣7️⃣</b></a> - Templates<br/>
-	- <a href=""><b>0️⃣8️⃣</b></a> - Templated containers, iterators, algorithms<br/>
-	- <a href=""><b>0️⃣9️⃣</b></a> - STL<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/cpp00"><b>0️⃣0️⃣</b></a> - Basics<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/cpp01"><b>0️⃣1️⃣</b></a> - Memory allocation, pointers and references<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/cpp02"><b>0️⃣2️⃣</b></a> - Polymorphism<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/cpp03"><b>0️⃣3️⃣</b></a> - Inheritance<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/cpp04"><b>0️⃣4️⃣</b></a> - Polymorphism, Abstract Classes and interfaces<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/cpp05"><b>0️⃣5️⃣</b></a> - Exceptions<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/cpp06"><b>0️⃣6️⃣</b></a> - C++ casts<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/cpp07"><b>0️⃣7️⃣</b></a> - Templates<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/cpp08"><b>0️⃣8️⃣</b></a> - Templated containers, iterators, algorithms<br/>
+	- <a href="https://github.com/dvavryn/CPP-modules/cpp09"><b>0️⃣9️⃣</b></a> - STL<br/>
 </details>
 
 <hr/>
