@@ -23,7 +23,7 @@
 
 <hr/>
 
-### 🗺️ Quest Log (C)
+### 💻 C
 
 <details>
   <summary><b>🕹️ Cub3D</b> — Wolfenstein‑style raycaster (C, MiniLibX)</summary>
@@ -120,7 +120,7 @@
 
 <hr/>
 
-### 🗺️ Quest Log (C++98)
+### 💻 C++98
 
 <details>
 	<summary><b>🌎 webserv</b> - a HTTP/1.1 NGINX-like webserver </summary>
