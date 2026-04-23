@@ -23,6 +23,26 @@
 
 <hr/>
 
+### 🔜 Current Projects
+
+<details>
+	<summary><ft_containers -- C++98</b> - a reimplementation of STL conainers</summary>
+	<br/>
+	std::list<br/>
+	std::vector<br/>
+	std::map<br/>
+	std::stack<br/>
+	std::queue<br/>
+	-----------<br/>
+	std::deque<br/>
+	std::set<br/>
+	std::multiset<br/>
+	std::multimap<br/>
+	<b>Repo:</b> <a href="https://github.com/dvavryn/ft_containers">ft_containers<br/>
+</details>
+
+<hr/>
+
 ### 💻 C
 
 <details>
@@ -97,29 +117,6 @@
 
 <hr/>
 
-### 💻 Sytems & Network
-<details>
-  <summary><b>💻 born2beroot</b> - setting up a VM</summary>
-  </br>
-  <b>Rewards:</b> +577 XP</br>
-  <b>Loot:</b> Unix, Debian, sh/bash, cron, system-administration
-</details>
-<details>
-  <summary><b>🛜 NetPractice</b> - Basic Network Management</summary>
-  </br>
-  <b>Rewards:</b> +3,160 XP</br>
-  <b>Loot:</b> Networking, IP, Subnetmasks
-</details>
-<details>
-  <summary><b>💻 Inception</b> - Docker Compose - to be finished</summary>
-  </br>
-  <b>Repo:</b> <a href="https://github.com/dvavryn/inception">
-  <b>Rewards:</b> +15.836 XP</br>
-  <b>Loot:</b> Docker, Docker Compose
-</details>
-
-<hr/>
-
 ### 💻 C++98
 
 <details>
@@ -142,6 +139,29 @@
 	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp07"><b>0️⃣7️⃣</b></a> - Templates<br/>
 	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp08"><b>0️⃣8️⃣</b></a> - Templated containers, iterators, algorithms<br/>
 	- <a href="https://github.com/dvavryn/CPP-modules/tree/main/cpp09"><b>0️⃣9️⃣</b></a> - STL + 10,042 XP<br/>
+</details>
+
+<hr/>
+
+### 💻 Sytems & Network
+<details>
+  <summary><b>💻 born2beroot</b> - setting up a VM</summary>
+  </br>
+  <b>Rewards:</b> +577 XP</br>
+  <b>Loot:</b> Unix, Debian, sh/bash, cron, system-administration
+</details>
+<details>
+  <summary><b>🛜 NetPractice</b> - Basic Network Management</summary>
+  </br>
+  <b>Rewards:</b> +3,160 XP</br>
+  <b>Loot:</b> Networking, IP, Subnetmasks
+</details>
+<details>
+  <summary><b>💻 Inception</b> - Docker Compose - to be finished</summary>
+  </br>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/inception">
+  <b>Rewards:</b> +15.836 XP</br>
+  <b>Loot:</b> Docker, Docker Compose
 </details>
 
 <hr/>
