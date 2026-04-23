@@ -26,7 +26,7 @@
 ### 🔜 Current Projects
 
 <details>
-	<summary><ft_containers -- C++98</b> - a reimplementation of STL conainers</summary>
+	<summary><b>ft_containers -- C++98</b> - a reimplementation of STL conainers</summary>
 	<br/>
 	std::list<br/>
 	std::vector<br/>
