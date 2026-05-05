@@ -43,6 +43,12 @@
   <b>Repo:</b> <a href="https://github.com/dvavryn/ft_containers">ft_containers</a><br/>
 </details>
 
+<deatils>
+  <summary><b>2048 -- C++98/Python3</b> - a 2048 game clone</summary>
+  <br/>
+  <b>Repo:</b> <a href="https://github.com/dvavryn/2048">2048</a><br/>
+</details>
+
 <hr/>
 
 ### 💻 C
